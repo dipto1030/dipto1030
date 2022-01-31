@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dipto1030
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning C, java
-- 💞️ I’m looking to collaborate on learning java and C
+- 👀 I’m interested in 
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on
 - 📫 Reach me on dipto1030@gmail.com
 
 <!---
