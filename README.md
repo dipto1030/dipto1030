@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dipto1030
-- 👀 I’m interested in 
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on
+- 👀 I’m interested in ML, Deep Learning
+- 🌱 I’m currently learning Image Processing
+- 💞️ I’m looking to collaborate on ML projects
 - 📫 Reach me on dipto1030@gmail.com
 
 <!---
